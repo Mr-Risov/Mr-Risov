@@ -14,5 +14,5 @@ Provide a brief overview of your project. Mention its purpose, target audience, 
 - **Hobby:** Hacking games
 - **Goal:** To become an ethical hacker
 - **My Profile:** [mr-risov.github.io](https://mr-risov.github.io)
-- **Personal Website:** [flysian.link](https://flysian.link)
+
 
