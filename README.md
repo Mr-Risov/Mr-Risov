@@ -13,7 +13,7 @@ Hi, I'm **Risov Kemprai** ([@Mr-Risov](https://github.com/Mr-Risov))
 ### 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mr-Risov&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-Risov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Risov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </div>
@@ -42,7 +42,7 @@ Hi, I'm **Risov Kemprai** ([@Mr-Risov](https://github.com/Mr-Risov))
 
 <div align="center">
   <a href="https://github.com/Mr-Risov/flysian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Risov&repo=flysian&theme=radical" alt="Flysian Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Risov&repo=mr-risov.github.io&theme=radical" alt="My Bio">
   </a>
 </div>
 
