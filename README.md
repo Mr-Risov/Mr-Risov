@@ -38,28 +38,11 @@ Hi, I'm **Risov Kemprai** ([@Mr-Risov](https://github.com/Mr-Risov))
 
 ---
 
-### 🌟 Featured Projects  
-
-<div align="center">
-  <a href="https://github.com/Mr-Risov/flysian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Risov&repo=mr-risov.github.io&theme=radical" alt="My Bio">
-  </a>
-</div>
-
----
 
 ### ✨ Fun Animation  
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" height="200">
-</div>
-
----
-
-### 🔵 Dynamic Contribution Circles  
-
-<div align="center">
-  <img src="https://github-contributor-svg.vercel.app/api?username=Mr-Risov&radius=150&theme=radical" alt="GitHub Contribution Circle" width="300">
 </div>
 
 ---
